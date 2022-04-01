@@ -1,0 +1,40 @@
+ [1] "Page.total.likes"                                                   
+ [2] "Type"                                                               
+ [3] "Category"                                                           
+ [4] "Post.Month"                                                         
+ [5] "Post.Weekday"                                                       
+ [6] "Post.Hour"                                                          
+ [7] "Paid"                                                               
+ [8] "Lifetime.Post.Total.Reach"                                          
+ [9] "Lifetime.Post.Total.Impressions"                                    
+[10] "Lifetime.Engaged.Users"                                             
+[11] "Lifetime.Post.Consumers"                                            
+[12] "Lifetime.Post.Consumptions"                                         
+[13] "Lifetime.Post.Impressions.by.people.who.have.liked.your.Page"       
+[14] "Lifetime.Post.reach.by.people.who.like.your.Page"                   
+[15] "Lifetime.People.who.have.liked.your.Page.and.engaged.with.your.post"
+[16] "comment"                                                            
+[17] "like"                                                               
+[18] "share"                                                              
+[19] "Total.Interactions" 
+
+----------------------------------- Considered variable name -------------------------------
+'page_total_like'
+'type'
+'category'
+'post_month'
+'post_weekday'
+'post_hour'
+'paid'
+'lpt_reach'
+'lpt_impression'
+'le_users'
+'lp_consumers'
+'lp_consumption'
+'lp_imp_whlyp'
+'lp_reach_whlyp'
+'lp_whlyp_ewyp'
+'comment'
+'like'
+'share'
+'total_interection'
